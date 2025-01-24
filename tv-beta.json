@@ -1,0 +1,9 @@
+{
+    "tag_name": "v2.2.4",
+    "assets": [
+        {
+            "browser_download_url": ""
+        }
+    ],
+    "body": "### 修复已知问题"
+}
